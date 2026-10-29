@@ -1,4 +1,4 @@
-# MediLedger
+# MediLedger - TO USE THE PROJECT - DONWLAOD THE ZIP AND EXTRACT IT
 
 MediLedger is an academic healthcare data-sharing prototype. It demonstrates patient-controlled consent, server-side role-based access control, encrypted medical-record payloads, and a tamper-evident audit trail. It is a conventional Node.js/MongoDB application; it does not use a blockchain and it is not a certified medical or regulatory-compliance product.
 
